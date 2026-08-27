@@ -24,4 +24,7 @@ Pre-submission checklist (do all of these before opening the PR):
 
 ## Log
 
-- 2026-08-27: Repo created, 80+ entries, all links verified live, awesome-lint green locally and in CI.
+- 2026-08-27: Repo created, 85 entries, all links verified live, awesome-lint green locally and in CI.
+- 2026-08-27: PR opened adding ParlayAPI's free tier to ripienaar/free-for-dev (APIs, Data, and ML): https://github.com/ripienaar/free-for-dev/pull/4794 (founder disclosure in PR body).
+- 2026-08-27: PR opened adding ParlayAPI to public-api-lists/public-api-lists (Sports & Fitness): https://github.com/public-api-lists/public-api-lists/pull/667 (founder disclosure in PR body).
+- Note: ParlayAPI is already listed in marcelscruz/public-apis (PR 879, merged 2026-08-04). A PR to public-apis/public-apis has been open since May 2026 (PR 5981); do not open a duplicate.
