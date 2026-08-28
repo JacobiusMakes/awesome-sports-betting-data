@@ -72,6 +72,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [oddsapiR](https://github.com/sportsdataverse/oddsapiR) - R wrapper for The Odds API, part of the SportsDataverse project.
 - [parlayapi-arb-scanner](https://github.com/JacobiusMakes/parlayapi-arb-scanner) - Open-source arbitrage scanner built on ParlayAPI.
 - [parlayapi-line-shopper](https://github.com/JacobiusMakes/parlayapi-line-shopper) - Command-line line shopping tool built on ParlayAPI.
+- [parlayapi-odds-action](https://github.com/JacobiusMakes/parlayapi-odds-action) - GitHub Action that fetches sportsbook odds into JSON or CSV files from cron workflows, maintained by ParlayAPI.
 - [penaltyblog](https://github.com/martineastwood/penaltyblog) - Python package with football modeling, team ratings, and odds utilities.
 - [shin](https://github.com/mberk/shin) - Python implementation of Shin's method for computing implied probabilities from odds.
 - [sports-betting](https://github.com/georgedouzas/sports-betting) - Python toolbox with betting datasets, backtesting, and value bet estimation.
