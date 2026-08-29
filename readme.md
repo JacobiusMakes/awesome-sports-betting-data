@@ -71,6 +71,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [OddsHarvester](https://github.com/jordantete/OddsHarvester) - Scraper for collecting odds and results from OddsPortal.
 - [oddsapiR](https://github.com/sportsdataverse/oddsapiR) - R wrapper for The Odds API, part of the SportsDataverse project.
 - [parlayapi-arb-scanner](https://github.com/JacobiusMakes/parlayapi-arb-scanner) - Open-source arbitrage scanner built on ParlayAPI.
+- [parlayapi-discord-bot](https://github.com/JacobiusMakes/parlayapi-discord-bot) - Self-hostable Discord bot serving live odds, line moves, and parlay math, maintained by ParlayAPI.
 - [parlayapi-line-shopper](https://github.com/JacobiusMakes/parlayapi-line-shopper) - Command-line line shopping tool built on ParlayAPI.
 - [parlayapi-odds-action](https://github.com/JacobiusMakes/parlayapi-odds-action) - GitHub Action that fetches sportsbook odds into JSON or CSV files from cron workflows, maintained by ParlayAPI.
 - [penaltyblog](https://github.com/martineastwood/penaltyblog) - Python package with football modeling, team ratings, and odds utilities.
