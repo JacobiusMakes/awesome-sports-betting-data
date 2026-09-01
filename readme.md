@@ -114,6 +114,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [MCP Registry](https://registry.modelcontextprotocol.io/) - Official Model Context Protocol registry; search it for sports and odds servers.
 - [odds-api-mcp-server](https://github.com/odds-api-io/odds-api-mcp-server) - MCP server for the Odds-API.io odds feed.
 - [parlay-api-mcp](https://github.com/JacobiusMakes/parlay-api-mcp) - MCP server for ParlayAPI with live odds, props, arbitrage, and EV tools.
+- [parlayapi-agent-tools](https://github.com/JacobiusMakes/parlayapi-agent-tools) - ParlayAPI odds tools packaged for LangChain, LlamaIndex, and raw OpenAI or Anthropic function calling.
 - [Pinnwire](https://pinnwire.com/) - Pinnacle odds, price drops, and no-vig fair prices over MCP.
 - [PulseMCP](https://www.pulsemcp.com/) - Community directory of MCP servers, including sports betting ones.
 - [SkipOdds](https://skipodds.com/) - De-vigged consensus win probabilities over a keyless remote MCP server.
