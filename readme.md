@@ -149,3 +149,7 @@ Most bettors lose money over time, and data or models do not change the house ed
 ## Disclosure
 
 This list is maintained by [JacobiusMakes](https://github.com/JacobiusMakes), the founder of ParlayAPI, which appears in the Odds and Line APIs section above. To keep the list fair: ParlayAPI and its open-source repos are described in the same neutral one-line style as everyone else, competitors are included on equal footing with links to their own sites, and every entry is held to the same liveness check. Corrections and additions, including to competitor entries, are welcome; see [contributing.md](contributing.md).
+
+---
+
+Part of the [ParlayAPI](https://parlay-api.com) ecosystem: a real-time sports odds API with a free tier of 1,000 credits per month, no card required. Explore all the tools at [github.com/JacobiusMakes](https://github.com/JacobiusMakes).
