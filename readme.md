@@ -34,6 +34,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [OddsPapi](https://oddspapi.io/) - Odds aggregator with a free tier and flat per-request pricing.
 - [OpticOdds](https://opticodds.com/) - Enterprise push odds feed built for trading desks and operators, sales led.
 - [ParlayAPI](https://parlay-api.com/) - Odds and player props from 30+ sportsbooks plus Kalshi and Polymarket, with a free tier and the-odds-api compatible endpoints.
+- [PuntersEdge](https://puntersedge.online/api) - Australian racing and sports odds API across 14 AU bookmakers, with results, movers and a closing-line archive; credit-based with a free tier.
 - [Pinnacle API](https://pinnacleapi.github.io/) - Documentation for Pinnacle's B2B betting API, a common reference for sharp lines.
 - [SharpAPI](https://sharpapi.io/) - Streaming odds API with built-in EV and arbitrage detection.
 - [Smarkets API](https://docs.smarkets.com/) - REST API for the Smarkets betting exchange.
