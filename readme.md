@@ -29,6 +29,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [Cloudbet API](https://www.cloudbet.com/api/) - Odds feed and betting API from a crypto sportsbook.
 - [Genius Sports](https://developer.geniussports.com/) - Enterprise official league data and odds feeds, sales led.
 - [LSports](https://www.lsports.eu/) - Enterprise pre-match and in-play odds feeds for operators.
+- [Odds API](https://odds-api.net/) - Pre-match sports and racing odds API with REST snapshots, line movement, and SSE and WebSocket streams.
 - [Odds-API.io](https://odds-api.io/) - REST and WebSocket odds aggregator with value bet and arbitrage endpoints.
 - [OddsBlaze](https://oddsblaze.com/) - Sportsbook odds API with pricing tiered by data latency.
 - [OddsPapi](https://oddspapi.io/) - Odds aggregator with a free tier and flat per-request pricing.
