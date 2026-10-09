@@ -32,6 +32,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [Odds-API.io](https://odds-api.io/) - REST and WebSocket odds aggregator with value bet and arbitrage endpoints.
 - [OddsBlaze](https://oddsblaze.com/) - Sportsbook odds API with pricing tiered by data latency.
 - [OddsPapi](https://oddspapi.io/) - Odds aggregator with a free tier and flat per-request pricing.
+- [OddsRelay](https://oddsrelay.io/) - Pre-match odds API for UK and Irish bookmakers, bet365 included, with Betfair, Smarkets, Matchbook and BETDAQ lay prices.
 - [OpticOdds](https://opticodds.com/) - Enterprise push odds feed built for trading desks and operators, sales led.
 - [ParlayAPI](https://parlay-api.com/) - Odds and player props from 30+ sportsbooks plus Kalshi and Polymarket, with a free tier and the-odds-api compatible endpoints.
 - [Pinnacle API](https://pinnacleapi.github.io/) - Documentation for Pinnacle's B2B betting API, a common reference for sharp lines.
