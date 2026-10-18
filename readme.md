@@ -35,6 +35,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [OpticOdds](https://opticodds.com/) - Enterprise push odds feed built for trading desks and operators, sales led.
 - [ParlayAPI](https://parlay-api.com/) - Odds and player props from 30+ sportsbooks plus Kalshi and Polymarket, with a free tier and the-odds-api compatible endpoints.
 - [Pinnacle API](https://pinnacleapi.github.io/) - Documentation for Pinnacle's B2B betting API, a common reference for sharp lines.
+- [PropLine](https://prop-line.com/) - Odds and player props API across sportsbooks, DFS apps and exchanges, with props graded against box scores and a free tier.
 - [SharpAPI](https://sharpapi.io/) - Streaming odds API with built-in EV and arbitrage detection.
 - [Smarkets API](https://docs.smarkets.com/) - REST API for the Smarkets betting exchange.
 - [Sportradar](https://developer.sportradar.com/) - Enterprise sports data provider with odds, probabilities, and official feeds.
