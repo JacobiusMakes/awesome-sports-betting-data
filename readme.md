@@ -38,6 +38,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [SharpAPI](https://sharpapi.io/) - Streaming odds API with built-in EV and arbitrage detection.
 - [Smarkets API](https://docs.smarkets.com/) - REST API for the Smarkets betting exchange.
 - [Sportradar](https://developer.sportradar.com/) - Enterprise sports data provider with odds, probabilities, and official feeds.
+- [Sports Odds API (BetRivers, Unibet & 22 more books)](https://apify.com/publicrecords/sports-odds-api) - Live odds from 24 Kambi-powered sportsbooks in one call, including BetRivers (12 US states + Ontario), Unibet, Paf, Svenska Spel, and ATG, with one row per game, every book's price, and the best price per outcome; pay per call, no subscription.
 - [SportsAPIs.dev](https://sportsapis.dev/) - Independent directory comparing sports and odds APIs.
 - [SportsDataIO](https://sportsdata.io/) - Sports data and odds feeds aimed at media and enterprise products.
 - [SportsGameOdds](https://sportsgameodds.com/) - Odds API priced per event rather than per market.
