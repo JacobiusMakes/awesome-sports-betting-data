@@ -39,6 +39,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [Smarkets API](https://docs.smarkets.com/) - REST API for the Smarkets betting exchange.
 - [Sportradar](https://developer.sportradar.com/) - Enterprise sports data provider with odds, probabilities, and official feeds.
 - [SportsAPIs.dev](https://sportsapis.dev/) - Independent directory comparing sports and odds APIs.
+- [SportsDataHQ](https://sportsdatahq.com/) - Nine sports data APIs (NBA, NFL, NHL, MLB, soccer, tennis, golf, UFC, cricket) with odds and player prop lines by sportsbook, opening and closing, and prop history against results; free tier.
 - [SportsDataIO](https://sportsdata.io/) - Sports data and odds feeds aimed at media and enterprise products.
 - [SportsGameOdds](https://sportsgameodds.com/) - Odds API priced per event rather than per market.
 - [The Odds API](https://the-odds-api.com/) - Long-running self-serve odds API across many sports and bookmakers, with a free tier; the default in many tutorials.
@@ -119,6 +120,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [Pinnwire](https://pinnwire.com/) - Pinnacle odds, price drops, and no-vig fair prices over MCP.
 - [PulseMCP](https://www.pulsemcp.com/) - Community directory of MCP servers, including sports betting ones.
 - [SkipOdds](https://skipodds.com/) - De-vigged consensus win probabilities over a keyless remote MCP server.
+- [SportsDataHQ MCP servers](https://sportsdatahq.com/) - Hosted read-only MCP servers for the same nine APIs: stats, play-by-play, odds history and prop backtests.
 - [VoxOdds](https://voxodds.com/) - Prediction market odds and EV checks over MCP.
 
 ## Communities
