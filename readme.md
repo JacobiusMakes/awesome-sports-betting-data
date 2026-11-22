@@ -111,6 +111,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 ## MCP Servers and AI Agent Tools
 
 - [Front of Goal](https://frontofgoal.com/) - Soccer prediction market odds from Polymarket, exposed through a remote MCP server.
+- [Footalytics](https://footalytics.farvor.com) - Soccer match prediction API and MCP server: win/draw/loss probabilities, over/under 2.5 goals, BTTS, and a publicly graded accuracy ledger.
 - [MCP Registry](https://registry.modelcontextprotocol.io/) - Official Model Context Protocol registry; search it for sports and odds servers.
 - [odds-api-mcp-server](https://github.com/odds-api-io/odds-api-mcp-server) - MCP server for the Odds-API.io odds feed.
 - [parlay-api-mcp](https://github.com/JacobiusMakes/parlay-api-mcp) - MCP server for ParlayAPI with live odds, props, arbitrage, and EV tools.
