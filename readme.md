@@ -52,6 +52,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [FiveThirtyEight Data](https://github.com/fivethirtyeight/data) - Archive of the datasets behind FiveThirtyEight's sports forecasts, including Elo ratings.
 - [Football-Data.co.uk](https://www.football-data.co.uk/) - Free CSVs of historical football results and bookmaker odds going back decades.
 - [Kaggle March Machine Learning Mania](https://www.kaggle.com/competitions/march-machine-learning-mania-2025) - Annual NCAA basketball prediction competition with rich historical tournament data.
+- [MLB Season Stats 2025](https://apify.com/o19750120/mlb-season-pitching-bullpen-data) - Apify Actor with the finished 2025 MLB regular season per club and starting pitcher, built from Retrosheet; paid per row.
 - [Match Charting Project](https://github.com/JeffSackmann/tennis_MatchChartingProject) - Crowdsourced shot-by-shot tennis match data.
 - [MoneyPuck](https://moneypuck.com/) - NHL win probabilities with downloadable shot-level data.
 - [nflverse](https://github.com/nflverse/nflverse-data) - Automated data releases of NFL play-by-play, rosters, and more.
