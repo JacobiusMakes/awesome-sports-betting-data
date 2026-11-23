@@ -28,6 +28,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [Betfair Exchange](https://betfair-datascientists.github.io/) - Official automation hub for the Betfair Exchange API, with tutorials, models, and data access guides.
 - [Cloudbet API](https://www.cloudbet.com/api/) - Odds feed and betting API from a crypto sportsbook.
 - [Genius Sports](https://developer.geniussports.com/) - Enterprise official league data and odds feeds, sales led.
+- [KashRock](https://www.kashrock.com/docs) - Esports odds, props, and match data for CS2, Valorant, League of Legends, Dota 2, and six more titles, with a free tier and an MCP server.
 - [LSports](https://www.lsports.eu/) - Enterprise pre-match and in-play odds feeds for operators.
 - [Odds-API.io](https://odds-api.io/) - REST and WebSocket odds aggregator with value bet and arbitrage endpoints.
 - [OddsBlaze](https://oddsblaze.com/) - Sportsbook odds API with pricing tiered by data latency.
@@ -111,6 +112,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 ## MCP Servers and AI Agent Tools
 
 - [Front of Goal](https://frontofgoal.com/) - Soccer prediction market odds from Polymarket, exposed through a remote MCP server.
+- [kashrock-mcp](https://github.com/kashrockapi/kashrock-mcp) - MCP server for KashRock esports matches, odds, and props.
 - [MCP Registry](https://registry.modelcontextprotocol.io/) - Official Model Context Protocol registry; search it for sports and odds servers.
 - [odds-api-mcp-server](https://github.com/odds-api-io/odds-api-mcp-server) - MCP server for the Odds-API.io odds feed.
 - [parlay-api-mcp](https://github.com/JacobiusMakes/parlay-api-mcp) - MCP server for ParlayAPI with live odds, props, arbitrage, and EV tools.
