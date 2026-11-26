@@ -116,6 +116,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 
 ## Prediction Market APIs
 
+- [Can I Bet In?](https://canibetin.com/) - Public JSON feed comparing event prices across Kalshi, Polymarket and PredictIt.
 - [Kalshi API](https://docs.kalshi.com/) - REST and WebSocket documentation for the regulated US event exchange.
 - [Manifold API](https://docs.manifold.markets/) - API for the play-money prediction market.
 - [Metaculus API](https://www.metaculus.com/api/) - API for the forecasting platform's questions and community predictions.
