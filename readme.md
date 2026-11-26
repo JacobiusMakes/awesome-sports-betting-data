@@ -69,7 +69,6 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [nflverse](https://github.com/nflverse/nflverse-data) - Automated data releases of NFL play-by-play, rosters, and more.
 - [Odds Portal](https://www.oddsportal.com/) - Browsable archive of closing odds across many bookmakers and leagues.
 - [Retrosheet](https://www.retrosheet.org/) - Play-by-play accounts of MLB games reaching back to the 19th century.
-- [sports-odds-datasets](https://github.com/JacobiusMakes/sports-odds-datasets) - Open snapshots of sportsbook odds data, maintained by ParlayAPI.
 - [SportsDataverse](https://www.sportsdataverse.org/) - Family of open-source sports data packages across R, Python, and Node.
 - [StatsNext NHL advanced stats](https://statsnext.com/nhl/advanced) - Current-season NHL skater rates per 60 minutes and goalie save percentages by game situation.
 - [Tennis Abstract](https://www.tennisabstract.com/) - Jeff Sackmann's tennis stats site with open match-level data.
@@ -104,6 +103,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 ### Courses and Conferences
 
 - [Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/) - Academic conference on statistics in sport, with student research competitions.
+- [Historical Match Odds Notebook](https://github.com/JacobiusMakes/parlayapi-notebooks/tree/main/labs/historical-match) - ParlayAPI lesson on matching football fixtures and checking home, draw and away closing prices using a season CSV from Football-Data.co.uk.
 - [MIT Sloan Sports Analytics Conference](https://www.sloansportsconference.com/) - The largest sports analytics conference, with openly published research papers.
 - [Sports Performance Analytics Specialization](https://www.coursera.org/specializations/sports-analytics) - University of Michigan course series on building sports prediction models.
 
