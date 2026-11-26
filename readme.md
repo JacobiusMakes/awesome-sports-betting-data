@@ -4,7 +4,7 @@
 
 A curated index for people who work with sports betting data: modelers, developers, researchers, and students. The previous index of this space, ianalloway/awesome-sports-betting, was archived in July 2026; this list aims to keep a living, fair, and link-checked index for the category.
 
-Every link on this list was verified live on 2026-08-27. Entries within each section are alphabetical. Vendors, including direct competitors of each other, are listed on equal footing with neutral one-line descriptions. See the Disclosure section for who maintains this list.
+Entries within each section are alphabetical. Vendors, including direct competitors of each other, are listed on equal footing with neutral one-line descriptions. See the Disclosure section for who maintains this list.
 
 Betting involves real financial risk and most bettors lose money. If gambling is causing you or someone you know harm, free and confidential help exists: in the US, call or text 1-800-GAMBLER. More resources are in the Responsible Gambling section below.
 
@@ -25,20 +25,31 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 
 ## Odds and Line APIs
 
+[Compare two odds feeds](compare-odds-feeds.md) using one fixture, a freshness cutoff and a written acceptance test.
+
 - [Betfair Exchange](https://betfair-datascientists.github.io/) - Official automation hub for the Betfair Exchange API, with tutorials, models, and data access guides.
 - [Cloudbet API](https://www.cloudbet.com/api/) - Odds feed and betting API from a crypto sportsbook.
 - [Genius Sports](https://developer.geniussports.com/) - Enterprise official league data and odds feeds, sales led.
+- [KashRock](https://www.kashrock.com/docs) - Esports match data, odds and player props.
 - [LSports](https://www.lsports.eu/) - Enterprise pre-match and in-play odds feeds for operators.
+- [Odds API](https://odds-api.net/) - Pre-match sports and racing odds with REST snapshots and line movement over SSE and WebSocket.
 - [Odds-API.io](https://odds-api.io/) - REST and WebSocket odds aggregator with value bet and arbitrage endpoints.
 - [OddsBlaze](https://oddsblaze.com/) - Sportsbook odds API with pricing tiered by data latency.
 - [OddsPapi](https://oddspapi.io/) - Odds aggregator with a free tier and flat per-request pricing.
+- [OddsRelay](https://oddsrelay.io/) - Bookmaker prices across regions, with UK and Irish odds matched to exchange lay prices.
 - [OpticOdds](https://opticodds.com/) - Enterprise push odds feed built for trading desks and operators, sales led.
-- [ParlayAPI](https://parlay-api.com/) - Odds and player props from 30+ sportsbooks plus Kalshi and Polymarket, with a free tier and the-odds-api compatible endpoints.
+- [ParlayAPI](https://parlay-api.com/) - Sportsbook odds, player props and prediction market data over an API.
 - [Pinnacle API](https://pinnacleapi.github.io/) - Documentation for Pinnacle's B2B betting API, a common reference for sharp lines.
+- [PinnFeed](https://pinnfeed.io/) - Pinnacle odds over REST and WebSocket with closing lines and price changes.
+- [PinnRadar](https://pinnradar.com/) - Pinnacle pre-match and live odds over REST, WebSocket and SSE.
+- [PropLine](https://prop-line.com/) - Sportsbook odds and player props with results graded against box scores.
+- [PuntersEdge](https://puntersedge.online/api) - Australian racing and sports odds API with results and a closing-line archive.
 - [SharpAPI](https://sharpapi.io/) - Streaming odds API with built-in EV and arbitrage detection.
 - [Smarkets API](https://docs.smarkets.com/) - REST API for the Smarkets betting exchange.
 - [Sportradar](https://developer.sportradar.com/) - Enterprise sports data provider with odds, probabilities, and official feeds.
+- [Sports Odds API on Apify](https://apify.com/publicrecords/sports-odds-api) - Game-level prices from Kambi-powered sportsbooks, organized by bookmaker and outcome.
 - [SportsAPIs.dev](https://sportsapis.dev/) - Independent directory comparing sports and odds APIs.
+- [SportsDataHQ](https://sportsdatahq.com/docs) - Sports data APIs for play-by-play, sportsbook odds and player props.
 - [SportsDataIO](https://sportsdata.io/) - Sports data and odds feeds aimed at media and enterprise products.
 - [SportsGameOdds](https://sportsgameodds.com/) - Odds API priced per event rather than per market.
 - [The Odds API](https://the-odds-api.com/) - Long-running self-serve odds API across many sports and bookmakers, with a free tier; the default in many tutorials.
@@ -53,12 +64,14 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [Football-Data.co.uk](https://www.football-data.co.uk/) - Free CSVs of historical football results and bookmaker odds going back decades.
 - [Kaggle March Machine Learning Mania](https://www.kaggle.com/competitions/march-machine-learning-mania-2025) - Annual NCAA basketball prediction competition with rich historical tournament data.
 - [Match Charting Project](https://github.com/JeffSackmann/tennis_MatchChartingProject) - Crowdsourced shot-by-shot tennis match data.
+- [MLB Bullpen Workload](https://apify.com/o19750120/mlb-season-pitching-bullpen-data) - Historical MLB reliever workloads for 2023–2025 and 2025 starting pitcher data derived from Retrosheet.
 - [MoneyPuck](https://moneypuck.com/) - NHL win probabilities with downloadable shot-level data.
 - [nflverse](https://github.com/nflverse/nflverse-data) - Automated data releases of NFL play-by-play, rosters, and more.
 - [Odds Portal](https://www.oddsportal.com/) - Browsable archive of closing odds across many bookmakers and leagues.
 - [Retrosheet](https://www.retrosheet.org/) - Play-by-play accounts of MLB games reaching back to the 19th century.
 - [sports-odds-datasets](https://github.com/JacobiusMakes/sports-odds-datasets) - Open snapshots of sportsbook odds data, maintained by ParlayAPI.
 - [SportsDataverse](https://www.sportsdataverse.org/) - Family of open-source sports data packages across R, Python, and Node.
+- [StatsNext NHL advanced stats](https://statsnext.com/nhl/advanced) - Current-season NHL skater rates per 60 minutes and goalie save percentages by game situation.
 - [Tennis Abstract](https://www.tennisabstract.com/) - Jeff Sackmann's tennis stats site with open match-level data.
 - [Tennis-Data.co.uk](http://www.tennis-data.co.uk/) - Free CSVs of historical ATP and WTA results with bookmaker odds.
 
@@ -98,6 +111,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 
 - [Circles Off](https://www.youtube.com/@CirclesOffHQ) - Long-form interviews with professional bettors and betting industry figures.
 - [Plus EV Analytics](https://plusevanalytics.wordpress.com/) - Blog applying statistical and actuarial methods to gambling propositions.
+- [Precix Blog](https://precix.fr/blog/) - French-language articles with worked examples on sample size, bookmaker margin and closing line value.
 
 ## Prediction Market APIs
 
@@ -111,14 +125,18 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 ## MCP Servers and AI Agent Tools
 
 - [Front of Goal](https://frontofgoal.com/) - Soccer prediction market odds from Polymarket, exposed through a remote MCP server.
+- [kashrock-mcp](https://github.com/kashrockapi/kashrock-mcp) - MCP server for KashRock esports matches, odds and player props.
 - [MCP Registry](https://registry.modelcontextprotocol.io/) - Official Model Context Protocol registry; search it for sports and odds servers.
 - [odds-api-mcp-server](https://github.com/odds-api-io/odds-api-mcp-server) - MCP server for the Odds-API.io odds feed.
 - [parlay-api-mcp](https://github.com/JacobiusMakes/parlay-api-mcp) - MCP server for ParlayAPI with live odds, props, arbitrage, and EV tools.
 - [parlayapi-agent-tools](https://github.com/JacobiusMakes/parlayapi-agent-tools) - ParlayAPI odds tools packaged for LangChain, LlamaIndex, and raw OpenAI or Anthropic function calling.
 - [parlayapi-betting-agent-starter](https://github.com/JacobiusMakes/parlayapi-betting-agent-starter) - Starter template for a betting agent: live odds in, no-vig fair lines out, one marked extension point for your model, runs keyless in Colab or Codespaces.
+- [PinnFeed MCP](https://pinnfeed.io/docs/mcp) - Hosted MCP server for Pinnacle odds, price changes and closing lines.
+- [PinnRadar MCP](https://pinnradar.com/mcp) - Hosted MCP server for Pinnacle odds, line moves and price drops.
 - [Pinnwire](https://pinnwire.com/) - Pinnacle odds, price drops, and no-vig fair prices over MCP.
 - [PulseMCP](https://www.pulsemcp.com/) - Community directory of MCP servers, including sports betting ones.
 - [SkipOdds](https://skipodds.com/) - De-vigged consensus win probabilities over a keyless remote MCP server.
+- [SportsDataHQ MCP servers](https://sportsdatahq.com/#integrations) - MCP connections for querying sports statistics, play-by-play and odds.
 - [VoxOdds](https://voxodds.com/) - Prediction market odds and EV checks over MCP.
 
 ## Communities
@@ -150,7 +168,3 @@ Most bettors lose money over time, and data or models do not change the house ed
 ## Disclosure
 
 This list is maintained by [JacobiusMakes](https://github.com/JacobiusMakes), the founder of ParlayAPI, which appears in the Odds and Line APIs section above. To keep the list fair: ParlayAPI and its open-source repos are described in the same neutral one-line style as everyone else, competitors are included on equal footing with links to their own sites, and every entry is held to the same liveness check. Corrections and additions, including to competitor entries, are welcome; see [contributing.md](contributing.md).
-
----
-
-Part of the [ParlayAPI](https://parlay-api.com) ecosystem: a real-time sports odds API with a free tier of 1,000 credits per month, no card required. Explore all the tools at [github.com/JacobiusMakes](https://github.com/JacobiusMakes).
