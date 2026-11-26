@@ -115,6 +115,8 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [Precix Blog](https://precix.fr/blog/) - French-language articles with worked examples on sample size, bookmaker margin and closing line value.
 
 ## Prediction Market APIs
+- [Can I Bet In?](https://canibetin.com/) - Public JSON feed of matched Kalshi, Polymarket and PredictIt prices, refreshed about every 60 seconds, plus a free US state-by-state legality map.
+
 
 - [Kalshi API](https://docs.kalshi.com/) - REST and WebSocket documentation for the regulated US event exchange.
 - [Manifold API](https://docs.manifold.markets/) - API for the play-money prediction market.
