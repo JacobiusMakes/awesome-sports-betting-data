@@ -1,20 +1,20 @@
 # Submission runbook
 
-Written 2026-08-27. This file tracks getting this list accepted into the wider awesome ecosystem.
+Started 2026-08-27. This file tracks getting this list accepted into the wider awesome ecosystem.
 
 ## sindresorhus/awesome (the main list)
 
-The [awesome contribution guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) require, among other things, that a list be **at least 30 days old** at submission time, measured from the first commit.
+The [current submission template](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md) requires at least 30 days from the first real commit or open-source release, whichever is later. Its November 26, 2026 version excludes AI-generated lists and fully AI-generated pull requests.
 
 - First commit of this repo: **2026-08-27**.
-- Earliest eligible submission date: **2026-09-26**.
+- The first commit reached 30 days on **2026-09-26**. Eligibility also depends on how the list was authored and the other upstream requirements.
 
 Pre-submission checklist (do all of these before opening the PR):
 
 1. Re-run the link liveness check over every entry; fix or remove anything dead.
 2. Confirm `npx awesome-lint` passes clean on main (CI badge green).
 3. Re-read the current [awesome list guidelines](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md) and the pull request template; they change and reviewers enforce them strictly.
-4. The PR itself: add one line to the appropriate section of sindresorhus/awesome's readme, and in the PR description follow the template exactly, including the "I have read and understood the instructions" items and a review of two other open PRs (the template requires you to comment on at least 2 other open awesome PRs).
+4. The PR itself: add one line to the appropriate section of sindresorhus/awesome's readme, and in the PR description follow the template exactly, including the "I have read and understood the instructions" items and substantive reviews of at least four other open pull requests. The current template spells out which reviews count.
 5. Disclose in the PR that the maintainer runs ParlayAPI and that the list includes competitors on equal footing.
 
 ## Other directories worth a listing (no age requirement)

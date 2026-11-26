@@ -110,6 +110,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 ### Blogs and Video
 
 - [Circles Off](https://www.youtube.com/@CirclesOffHQ) - Long-form interviews with professional bettors and betting industry figures.
+- [Only the Overs Research Library](https://onlytheovers.com/guides) - Football research guides on daily fantasy lineups, projections, ownership and weather.
 - [Plus EV Analytics](https://plusevanalytics.wordpress.com/) - Blog applying statistical and actuarial methods to gambling propositions.
 - [Precix Blog](https://precix.fr/blog/) - French-language articles with worked examples on sample size, bookmaker margin and closing line value.
 
@@ -127,6 +128,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [Front of Goal](https://frontofgoal.com/) - Soccer prediction market odds from Polymarket, exposed through a remote MCP server.
 - [kashrock-mcp](https://github.com/kashrockapi/kashrock-mcp) - MCP server for KashRock esports matches, odds and player props.
 - [MCP Registry](https://registry.modelcontextprotocol.io/) - Official Model Context Protocol registry; search it for sports and odds servers.
+- [Odds API MCP Server](https://github.com/odds-api/odds-api/tree/main/mcp-server) - Open-source MCP server for events, bookmaker prices and line movement from Odds API.
 - [odds-api-mcp-server](https://github.com/odds-api-io/odds-api-mcp-server) - MCP server for the Odds-API.io odds feed.
 - [parlay-api-mcp](https://github.com/JacobiusMakes/parlay-api-mcp) - MCP server for ParlayAPI with live odds, props, arbitrage, and EV tools.
 - [parlayapi-agent-tools](https://github.com/JacobiusMakes/parlayapi-agent-tools) - ParlayAPI odds tools packaged for LangChain, LlamaIndex, and raw OpenAI or Anthropic function calling.
