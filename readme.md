@@ -73,6 +73,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [StatsNext NHL advanced stats](https://statsnext.com/nhl/advanced) - Current-season NHL skater rates per 60 minutes and goalie save percentages by game situation.
 - [Tennis Abstract](https://www.tennisabstract.com/) - Jeff Sackmann's tennis stats site with open match-level data.
 - [Tennis-Data.co.uk](http://www.tennis-data.co.uk/) - Free CSVs of historical ATP and WTA results with bookmaker odds.
+- [World Cup Score Explorer](https://parlay-api.com/tools/world-cup-scorelines) - ParlayAPI dataset of 360 matches from five men's World Cups, with regulation, extra-time and shoot-out scores derived from OpenFootball.
 
 ## Open Source Tools and Scanners
 
